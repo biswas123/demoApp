@@ -1,1 +1,24 @@
 /* Empty. Add your own CSS if you like */
+
+.tabs-striped .tabs {
+	border-bottom: none !important; 
+}
+
+.tabs-striped.tabs-royal .tab-item.tab-item-active, .tabs-striped.tabs-royal .tab-item.active, .tabs-striped.tabs-royal .tab-item.activated {
+	
+    border: none !important;
+}
+
+#rightAlignedMenu a{
+    text-align: right !important;
+}
+
+.tabs-royal > .tabs, .tabs.tabs-royal {
+    
+    background-color: #013281 !important;
+    border-color: #013281 !important;
+}
+
+.nav-bar-block, .bar {
+    background-color: inherit !important;
+  }
